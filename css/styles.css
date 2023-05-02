@@ -829,7 +829,9 @@ color: var(--background-color);
 margin-bottom: 16px;
 }
 
-
+.subscribe-field-form{
+  margin-right: 24px;
+}
 
 .subscribe-field {
 
@@ -839,7 +841,8 @@ margin-bottom: 16px;
 filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
 border-radius: 4px;
 background-color: var(--main-text-color);
-margin-right: 24px;
+padding-right: 16px;
+color: var(--background-color);
 }
 
 .subscribe-field::placeholder{
